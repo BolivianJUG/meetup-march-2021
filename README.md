@@ -1,6 +1,7 @@
 # MeetUp Marzo 2021
 
- - Para volver a ver el evento sigue el enlace: [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/BWzuTPY_zQw/0.jpg)](https://www.youtube.com/watch?v=BWzuTPY_zQw) 
+ - Para volver a ver el evento sigue el enlace: 
+ [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/BWzuTPY_zQw/0.jpg)](https://www.youtube.com/watch?v=BWzuTPY_zQw) 
 
  - La guia de preparacion para la certification esta [aqui](https://drive.google.com/file/d/1dNRiCSUoM9eHRA_Kcbeyo1TUULuieIX1/view)  
   
